@@ -15,7 +15,7 @@ return [
      *               <x-mary-card />
      *
      */
-    'prefix' => 'mary',
+    'prefix' => 'mary-',
 
     /**
      * Default route prefix.
